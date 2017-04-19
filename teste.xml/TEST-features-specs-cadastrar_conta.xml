@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="1" errors="0" skipped="0" tests="2" time="58.391364" name="Cadastrar Conta">
+<testcase classname="Cadastrar Conta" name="Cadastrar Conta (outline example : | Joana Abdala | http://www.marcos.com.br | marcos.abdala@gmail.com |)" time="27.442530">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Cadastrar Conta" name="Editar Conta (outline example : | Joana Abdala | OTC Holdings | sac@otcholdings.com |)" time="30.948834">
+  <failure message="failed Editar Conta (outline example : | Joana Abdala | OTC Holdings | sac@otcholdings.com |)" type="failed">
+    <![CDATA[Esquema do Cenário: Editar Conta
+
+Example row: | Joana Abdala | OTC Holdings | sac@otcholdings.com |
+
+Message:
+]]>
+    <![CDATA[Ambiguous match, found 20 elements matching css "td.inlineEdit[type=\"name\"]" (Capybara::Ambiguous)
+./features/step_definitions/cadastra_conta_steps.rb:35:in `/^fizer uma busca simples pelo o "([^"]*)"$/'
+features/specs/cadastrar_conta.feature:32:in `Quando fizer uma busca simples pelo o "Joana Abdala"'
+features/specs/cadastrar_conta.feature:26:in `Quando fizer uma busca simples pelo o "<nome>"']]>
+  </failure>
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+</testsuite>

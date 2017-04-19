@@ -1,0 +1,3 @@
+default: --no-source --color --format pretty
+
+regressao: --tags @cadastrar_conta,@editar_conta -f html -o report_regressao.html

@@ -1,0 +1,15 @@
+[0418/115436.524:ERROR:process_reader_win.cc(114)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido.  (0xc0000022)
+[0418/115436.524:ERROR:exception_snapshot_win.cc(87)] thread ID 28072 not found in process
+[0418/115436.524:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0418/155227.729:ERROR:process_reader_win.cc(114)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido.  (0xc0000022)
+[0418/155227.730:ERROR:exception_snapshot_win.cc(87)] thread ID 28556 not found in process
+[0418/155227.730:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0419/094745.910:ERROR:process_reader_win.cc(114)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido.  (0xc0000022)
+[0419/094745.929:ERROR:exception_snapshot_win.cc(87)] thread ID 31504 not found in process
+[0419/094745.929:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0419/102520.135:ERROR:process_info.cc(625)] range at 0x509c3a4200000000, size 0x212 fully unreadable
+[0419/102520.136:ERROR:process_info.cc(625)] range at 0x509c3a6200000000, size 0x212 fully unreadable
+[0419/102520.136:ERROR:process_info.cc(625)] range at 0x0, size 0x212 fully unreadable
+[0419/112119.474:ERROR:process_reader_win.cc(114)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido.  (0xc0000022)
+[0419/112119.474:ERROR:exception_snapshot_win.cc(87)] thread ID 27112 not found in process
+[0419/112119.474:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
